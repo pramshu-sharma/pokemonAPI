@@ -16,7 +16,7 @@ Loading data from the API to the Postgresql DB
  2. When completed the data should be present in the DB.
 
 Using the Application
-  1. When in the project folder in the terminal type 'uvicorn app:app --reload' to run the application.
+  1. When in the project folder in the terminal type 'uvicorn app:app' to run the application.
   2. After the server has been booted up, navigate to '/api/v1/pokemons' to use the application.
   3. Use the form at the top to filter the results.
 
